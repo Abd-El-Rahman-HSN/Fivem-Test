@@ -1,0 +1,8 @@
+1- xxamp
+2- run server\server-data\resources\esplugin_mysql\sql.sql
+3- run server\server-data\resources\es_extended\es_extended.sql
+4- run server\server-data\resources\esx_identity\esx_identity.sql
+5- run server\server-data\resources\[esx]\esx_addonaccount\esx_addonaccount.sql
+5- run server\server-data\resources\[esx]\esx_datastore\esx_datastore.sql
+7- run server\server-data\resources\[esx]\esx_addoninventory\esx_addoninventory.sql
+8- run server\server-data\resources\[esx]\esx_billing\esx_billing.sql
